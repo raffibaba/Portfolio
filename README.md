@@ -17,3 +17,9 @@ In this project, users can pick three multiplication quizzes with increasing dif
 **#Project 4: Number Guesser** 
 
 Users can pick between three number guessing games with increasing difficulty. The first is from 1-10, then 1-20, and finally 1-100.
+
+**#Project 5: Rock Paper Scissors**
+
+Users play rock paper scissors against the terminal. They can play as many times as they wish.
+
+Main takeaway: Using lists
