@@ -10,9 +10,13 @@ This project contains 3 games where the user is prompted to give inputs to creat
 
 This project has users input random things like a name, place, a body part, and an animal to create a funny story.
 
+Main takeaway: String concatenation
+
 **#Project 3: Multiplication Quiz**
 
 In this project, users can pick three multiplication quizzes with increasing difficulty. The user can also pick the number of questions they want. When they finish the quiz, their score is relayed back to them as a percentage and a fraction.
+
+Main takeaway: Converting integers to strings
 
 **#Project 4: Number Guesser** 
 
