@@ -6,6 +6,8 @@ This is where I store all of my python projects
 
 This project contains 3 games where the user is prompted to give inputs to create a fake news headline.
 
+Main takeaway: Implementing 'input'
+
 **#Project 2: Madlibs**
 
 This project has users input random things like a name, place, a body part, and an animal to create a funny story.
@@ -21,6 +23,8 @@ Main takeaway: Converting integers to strings
 **#Project 4: Number Guesser** 
 
 Users can pick between three number guessing games with increasing difficulty. The first is from 1-10, then 1-20, and finally 1-100.
+
+Main takeaway: Using if and/vs. elif
 
 **#Project 5: Rock Paper Scissors**
 
