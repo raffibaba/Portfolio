@@ -12,7 +12,7 @@ This project has users input random things like a name, place, a body part, and 
 
 **#Project 3: Multiplication Quiz**
 
-In this project, users can pick three multiplication quizzes with increasing difficulty. The user can also pick the number of questions they want. When they finish the quiz, their score is relayed back to them.
+In this project, users can pick three multiplication quizzes with increasing difficulty. The user can also pick the number of questions they want. When they finish the quiz, their score is relayed back to them as a percentage and a fraction.
 
 **#Project 4: Number Guesser** 
 
